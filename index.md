@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to MicroManageMe
 
-You can use the [editor on GitHub](https://github.com/bernauby/micromanageme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are the prime time company to help you micromanage your employees and get primetime results!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Solutions
 
-### Markdown
+1. Innovation 
+2. Research
+3. Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Employees
 
-```markdown
-Syntax highlighted code block
+1. Tyrion "Quick" Lannister ![tyrion]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://th.bing.com/th/id/OIP.Ht3G72XXBBIUhfDj0hxn7QHaE7?pid=ImgDet&rs=1) "Tyrion")
+2. John "COLD{t!m3_tr4v3l_r0cks} Bernauby ![john]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://th.bing.com/th/id/R.a18c7aa779dbe7c64c89aa462cbae989?rik=s7FniOIbvN64UQ&riu=http%3a%2f%2fknowledgequest.aasl.org%2fwp-content%2fuploads%2f2015%2f02%2f2000px-Scratchcat.svg_.png&ehk=f5B3yz74IA07GXs37quCokxe%2fN%2f2HFlgYMwL6TomwuA%3d&risl=&pid=ImgRaw&r=0) "John")
 
-# Header 1
-## Header 2
-### Header 3
+### Latest News
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bernauby/micromanageme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Welcome John! The newest addition to our team! He is designing out site!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with our website? Reach out to John using public PGP key!
