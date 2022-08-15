@@ -19,4 +19,4 @@ We are the prime time company to help you micromanage your employees and get pri
 
 ### Support or Contact
 
-Having trouble with our website? Reach out to John using public PGP key!
+Having trouble with our website? Reach out to John using his public PGP key!
